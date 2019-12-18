@@ -1,0 +1,13 @@
+*.pyc
+.idea
+*.ipynb
+.ipynb_checkpoints
+.DS_Store
+media
+db.sqlite3
+__pycache__
+virtual/
+**/migrations/
+static/
+logs/
+
